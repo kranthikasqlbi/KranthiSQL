@@ -1,3 +1,6 @@
+![Uploading Kranti.png…]()
+
+
 # KranthiSQL
 
 # 👋 Hi, I'm Kranthi
