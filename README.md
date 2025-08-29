@@ -1,6 +1,6 @@
 # KranthiSQL
 
-# 👋 Hi, I'm Kumar
+# 👋 Hi, I'm Kranthi
 
 ## 🚗 Featured Project
 [Car Sales Portfolio Project](https://github.com/kranthikasqlbi/Car-Sales-Portfolio-Project)
