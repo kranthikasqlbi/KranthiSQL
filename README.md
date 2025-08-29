@@ -4,5 +4,5 @@
 
 ## 🚗 Featured Project
 [Car Sales Portfolio Project](https://github.com/kranthikasqlbi/Car-Sales-Portfolio-Project)
-- Built with SQL Server & Snowflake
+- Built with MS SQL Server 
 - Business insights for car sales optimization
