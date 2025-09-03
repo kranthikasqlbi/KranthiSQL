@@ -12,7 +12,7 @@ Skilled in **SQL, Power BI, and Python**, I enjoy solving real-world data proble
 
 ## 🏆 💻 HackerRank Badges
 
-- ⭐⭐⭐ 3-Star SQL Badge on [HackerRank]([https://www.hackerrank.com/](https://www.hackerrank.com/profile/kranthikasqlbi))
+⭐⭐⭐ 3-Star SQL Badge on https://www.hackerrank.com/profile/kranthikasqlbi
 
 ## 🚗 Car Sales Featured Project
 [Car Sales Portfolio Project](https://github.com/kranthikasqlbi/Car-Sales-Portfolio-Project)
