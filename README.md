@@ -10,7 +10,9 @@
 I’m a **Data Analyst & SQL Developer** with 5+ years of experience in working with databases, data pipelines, and business insights.  
 Skilled in **SQL, Power BI, and Python**, I enjoy solving real-world data problems and optimizing processes for better decision-making.
 
-# HackerRank: https://www.hackerrank.com/profile/kranthikasqlbi
+## 🏆 💻 HackerRank Badges
+
+- ⭐⭐⭐ 3-Star SQL Badge on [HackerRank]([https://www.hackerrank.com/](https://www.hackerrank.com/profile/kranthikasqlbi))
 
 ## 🚗 Car Sales Featured Project
 [Car Sales Portfolio Project](https://github.com/kranthikasqlbi/Car-Sales-Portfolio-Project)
