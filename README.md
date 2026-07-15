@@ -38,21 +38,21 @@ I’m a **Snowflake Developer** with 9+ years of experience in IT and 3+ years o
 # 3. INEOS (Dec 2019 – Jan 2021) | **Domain:** Life Sciences  |
 ## Role: 🧑‍💻 Senior Data Analyst – Pharma Domain
 #### 💊 Project Name: Pharmaceutical Sales & Research Analytics Platform
-#### Project Overview Developed an analytics platform focused on pharmaceutical data processing, reporting, and business intelligence requirements.
+#### Project Overview: Developed an analytics platform focused on pharmaceutical data processing, reporting, and business intelligence requirements.
 #### **Client:** Not Disclosed (Life Sciences Client)  
 #### **GitHub Repository:** [https://github.com/kranthikasqlbi/LifeSciencesProject](url)
 ------------------------------------------------------------------------------------------------------------------
 # 4. Ashland (Nov 2016 – Oct 2019) | **Domain:** Pharmaceutical |
 ## Role:🧑‍💻 SQL Analyst – Pharma Domain
 #### 🧪 Project Name: Pharma Data Warehouse & Reporting System
-#### Project Overview Created data warehouse and reporting solutions to support pharmaceutical business operations, analytics, and decision-making.
+#### Project Overview: Created data warehouse and reporting solutions to support pharmaceutical business operations, analytics, and decision-making.
 #### **Client:** Not Disclosed (Pharmaceutical Client)  
 #### **GitHub Repository:** [https://github.com/kranthikasqlbi/pharmaProject](url)
 ------------------------------------------------------------------------------------------------------------------
 # 5. Cognizant (Jan 2013 – Oct 2016) | **Domain:** Hospitality |
 ## Role: 🧑‍💻 Programmer Analyst – Master Data Management
 #### 🍽️ Project Name: Hospitality
-#### Project Overview Implemented and created data warehouse and reporting solutions to support Restaurants & hotel business operations, analytics, and decision-making
+#### Project Overview: Implemented and created data warehouse and reporting solutions to support Restaurants & hotel business operations, analytics, and decision-making
 #### **Client:** Not Disclosed (Hospitality Client)  
 #### **GitHub Repository:** https://github.com/kranthikasqlbi/HospitalityProject
 ------------------------------------------------------------------------------------------------------------------
