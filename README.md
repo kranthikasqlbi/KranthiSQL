@@ -7,8 +7,8 @@
 
 # 👋 Hi, I'm Kranthi
 
-I’m a **DataBase developer & Admin** with 5+ years of experience in working with databases, data pipelines, and business insights.  
-Skilled in **Database,SQL, Power shell,AzureDB and Python**, I enjoy solving real-world data problems and optimizing processes for better decision-making.
+I’m a **Snowflake Developer ** with 9+ years of experience in working with databases, data pipelines, and business insights.  
+Skilled in **Snowflake,DBT,AWS,SQL & Python**, I enjoy solving real-world data problems and optimizing processes for better decision-making.
 
 ## 🏆 💻 HackerRank Badges
 
