@@ -22,17 +22,17 @@ I’m a **Snowflake Developer** with 9+ years of experience in IT and 3+ years o
 ------------------------------------------------------------------------------------------------------------------
 # 1. FinacPlus (Jul 2023 – N/A)
 ## Role:👨‍💻 Software Engineer – Snowflake | dbt | AWS | **Domain:** Retail |  
-##### 🚗 Project Name: Automotive Sales Data Lakehouse Platform
-##### Project Overview: Designed and developed an end-to-end modern SNOWFLAKE database platform for ingesting, loading and transforming data
-##### **Client:** Not Disclosed (Retail Automotive Client)  
-##### **GitHub Repository:**  [https://github.com/kranthikasqlbi/RetailAutomotiveSnowflake](url)
+#### 🚗 Project Name: Automotive Sales Data Lakehouse Platform
+#### Project Overview: Designed and developed an end-to-end modern SNOWFLAKE database platform for ingesting, loading and transforming data
+#### **Client:** Not Disclosed (Retail Automotive Client)  
+#### **GitHub Repository:**  [https://github.com/kranthikasqlbi/RetailAutomotiveSnowflake](url)
 ------------------------------------------------------------------------------------------------------------------
 # 2. Curia (Feb 2021 – Jun 2023) | **Domain:** Healthcare 
-### Role:🧑‍💻 Lead Data Analyst – Data Engineering & Analytics
-### 🧬 Project Overview Built a healthcare analytics solution to integrate, transform, and organize healthcare-related data for reporting, analytics, and business insights.
-## 🏥 Project Name: Healthcare Analytics Data Warehouse  
-**Client:** Not Disclosed (Healthcare)  
-**GitHub Repository:** [https://github.com/kranthikasqlbi/HealthcareProject](url)
+## Role:🧑‍💻 Lead Data Analyst – Data Engineering & Analytics
+#### 🧬 Project Overview Built a healthcare analytics solution to integrate, transform, and organize healthcare-related data for reporting, analytics, and business insights.
+#### 🏥 Project Name: Healthcare Analytics Data Warehouse  
+#### **Client:** Not Disclosed (Healthcare)  
+#### **GitHub Repository:** [https://github.com/kranthikasqlbi/HealthcareProject](url)
 ------------------------------------------------------------------------------------------------------------------
 
 # 3. INEOS (Oct 2019 – Jan 2021) | **Domain:** Life Sciences  
