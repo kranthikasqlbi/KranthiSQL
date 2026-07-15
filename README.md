@@ -7,8 +7,7 @@
 
 # 👋 Hi, I'm Kranthi
 
-I’m a **Snowflake Developer ** with 9+ years of experience in working with databases, data pipelines, and business insights.  
-Skilled in **Snowflake,DBT,AWS,SQL & Python**, I enjoy solving real-world data problems and optimizing processes for better decision-making.
+I’m a **Snowflake Developer ** with 9+ years of experience in IT and 3+ years of working in **Snowflake,DBT,AWS,SQL & Python**, I enjoy solving real-world data problems and optimizing processes for better decision-making.
 
 ## 🏆 💻 HackerRank Badges
 
