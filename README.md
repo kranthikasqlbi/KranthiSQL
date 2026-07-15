@@ -54,7 +54,7 @@ I’m a **Snowflake Developer** with 9+ years of experience in IT and 3+ years o
 #### 🍽️ Project Name: Hospitality
 #### Project Overview Developed a master data management solution to organize and maintain automotive business data including vehicle, customer, dealer, and transaction information.
 #### **Client:** Not Disclosed (Hospitality Client)  
-#### **GitHub Repository:** [https://github.com/kranthikasqlbi/HospitalityProject](url)]
+#### **GitHub Repository:** https://github.com/kranthikasqlbi/HospitalityProject
 ------------------------------------------------------------------------------------------------------------------
 # 📌 Portfolio Overview
 ------------------------------------------------------------------------------------------------------------------
