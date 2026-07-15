@@ -12,20 +12,20 @@ I’m a **Snowflake Developer ** with 9+ years of experience in IT and 3+ years 
 > **Disclaimer:**: All projects listed below are **sample domain-based projects created for learning, demonstration, and portfolio purposes**.
 > No real client data, confidential information, or proprietary code is included.
 
-# 1. FinacPlus (Jul 2022 – Jul 2025)
+# 1. FinacPlus (Jul 2023 – N/A)
 ### Role: Software Engineer – Snowflake | dbt | AWS
 
 ## ❄️ Project Name: Enterprise Sales Data Lakehouse Platform
-**Domain:** Retail / Sales Analytics  
+**Domain:** Retail / Cloud DWH  
 **Client:** Not Disclosed (Sample Project)  
-**GitHub Repository:** <Repository Link>
+**GitHub Repository:** [https://github.com/kranthikasqlbi/SnowflakePoject](url)
 
 ### Project Overview
 Designed and developed an end-to-end modern data platform for ingesting, transforming, and managing analytical data to support business reporting and decision-making.
 
 ---
 
-# 2. Curia (Feb 2020 – Nov 2022)
+# 2. Curia (Feb 2020 – Nov 2023)
 ### Role: Lead Data Analyst – Data Engineering & Analytics
 
 ## 🏥 Project Name: Healthcare Analytics Data Warehouse
