@@ -20,10 +20,10 @@ I’m a **Snowflake Developer** with 9+ years of experience in IT and 3+ years o
 ------------------------------------------------------------------------------------------------------------------
 ----------------------------PROJECTS IMPLIMENTED ----------------------
 ------------------------------------------------------------------------------------------------------------------
-# 1. FinacPlus (Jul 2023 – N/A)
-### Role:👨‍💻 Software Engineer – Snowflake | dbt | AWS | **Domain:** Retail |  
-## 🚗 Project Name: Automotive Sales Data Lakehouse Platform
-### Project Overview: Designed and developed an end-to-end modern SNOWFLAKE database platform for ingesting, loading and transforming data
+## 1. FinacPlus (Jul 2023 – N/A)
+#Role:👨‍💻 Software Engineer – Snowflake | dbt | AWS | **Domain:** Retail |  
+# 🚗 Project Name: Automotive Sales Data Lakehouse Platform
+# Project Overview: Designed and developed an end-to-end modern SNOWFLAKE database platform for ingesting, loading and transforming data
 **Client:** Not Disclosed (Retail Automotive Client)  
 **GitHub Repository:**  [https://github.com/kranthikasqlbi/RetailAutomotiveSnowflake](url)
 ------------------------------------------------------------------------------------------------------------------
