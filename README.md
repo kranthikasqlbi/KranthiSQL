@@ -52,7 +52,7 @@ I’m a **Snowflake Developer** with 9+ years of experience in IT and 3+ years o
 # 5. Cognizant (Jan 2013 – Oct 2016) | **Domain:** Hospitality |
 ## Role: 🧑‍💻 Programmer Analyst – Master Data Management
 #### 🍽️ Project Name: Hospitality
-#### Project Overview Developed a master data management solution to organize and maintain automotive business data including vehicle, customer, dealer, and transaction information.
+#### Project Overview Implemented and created data warehouse and reporting solutions to support Restaurants & hotel business operations, analytics, and decision-making
 #### **Client:** Not Disclosed (Hospitality Client)  
 #### **GitHub Repository:** https://github.com/kranthikasqlbi/HospitalityProject
 ------------------------------------------------------------------------------------------------------------------
