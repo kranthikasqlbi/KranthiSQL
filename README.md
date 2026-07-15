@@ -9,18 +9,11 @@
 
 I’m a **Snowflake Developer** with 9+ years of experience in IT and 3+ years of working in **Snowflake,DBT,AWS,SQL & Python**, I enjoy solving real-world optimizing databases and data problems for better DWH environment & decision-making.
 
-###🏆💻 HackerRank & LeetCode Badges
-
-⭐⭐⭐ HACKER_RANK 3-Star SQL Badge on https://www.hackerrank.com/profile/kranthikasqlbi
-
-#### ⭐⭐⭐ LEET_CODE 3-Star SQL Badge on https://www.leetcode.com/u/KranthiSQL
-
 ### 🏆 HackerRank & LeetCode Badges
 
 * ⭐⭐⭐ **HackerRank:** 3-Star SQL Badge | [View Profile](https://www.hackerrank.com/profile/kranthikasqlbi)
 * ⭐⭐⭐ **LeetCode:** 3-Star SQL Badge | [View Profile](https://leetcode.com/u/KranthiSQL)
 
-* 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 > **Disclaimer:**: All projects listed below are **sample domain-based projects created for learning, demonstration, and portfolio purposes**.
 > No real client data, confidential information, or proprietary code is #### NOT included.
