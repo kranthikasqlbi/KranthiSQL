@@ -39,21 +39,21 @@ I’m a **Snowflake Developer** with 9+ years of experience in IT and 3+ years o
 ## Role: 🧑‍💻 Senior Data Analyst – Pharma Domain
 #### 💊 Project Name: Pharmaceutical Sales & Research Analytics Platform
 #### Project Overview Developed an analytics platform focused on pharmaceutical data processing, reporting, and business intelligence requirements.
-#### **Client:** Not Disclosed (Pharmaceuticals)  
+#### **Client:** Not Disclosed (Life Sciences Client)  
 #### **GitHub Repository:** [https://github.com/kranthikasqlbi/LifeSciencesProject](url)
 ------------------------------------------------------------------------------------------------------------------
 # 4. Ashland (Nov 2016 – Oct 2019) | **Domain:** Pharmaceutical Industry |
 ## Role:🧑‍💻 SQL Analyst – Pharma Domain
 #### 🧪 Project Name: Pharma Data Warehouse & Reporting System
 #### Project Overview Created data warehouse and reporting solutions to support pharmaceutical business operations, analytics, and decision-making.
-#### **Client:** Not Disclosed (Sample Project)  
+#### **Client:** Not Disclosed (Pharmaceutical Client)  
 #### **GitHub Repository:** [https://github.com/kranthikasqlbi/pharmaProject](url)
 ------------------------------------------------------------------------------------------------------------------
 # 5. Cognizant (Jan 2013 – Oct 2016) | **Domain:** Hospitality Industry |
 ## Role: 🧑‍💻 Programmer Analyst – Master Data Management
 #### 🍽️ Project Name: Hospitality
 #### Project Overview Developed a master data management solution to organize and maintain automotive business data including vehicle, customer, dealer, and transaction information.
-#### **Client:** Not Disclosed (Hospitality Project)  
+#### **Client:** Not Disclosed (Hospitality Client)  
 #### **GitHub Repository:** [https://github.com/kranthikasqlbi/HospitalityProject](url)
 ------------------------------------------------------------------------------------------------------------------
 # 📌 Portfolio Overview
