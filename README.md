@@ -11,7 +11,7 @@ I’m a **Snowflake Developer** with 9+ years of experience in IT and 3+ years o
 
 #🏆💻 HackerRank & LeetCode Badges
 
-⭐⭐⭐ HACKER_RANK 3-Star SQL Badge on https://www.hackerrank.com/profile/kranthikasqlbi
+⭐⭐⭐ HACKER_RANK 3-Star SQL Badge on (https://www.hackerrank.com/profile/kranthikasqlbi)
 
 #### ⭐⭐⭐ LEET_CODE 3-Star SQL Badge on (https://leetcode.com/u/KranthiSQL/)
 ---------------------------------------------------------------------------------------------------------------------------------------------
