@@ -67,3 +67,5 @@ This repository collection demonstrates experience across:
 - Business Intelligence
 - Analytics Solutions
 - Master Data Management
+
+  Snowflake Team Overview : https://github.com/kranthikasqlbi/SnowflakeTeamOverview
