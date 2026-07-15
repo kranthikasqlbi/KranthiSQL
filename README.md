@@ -13,7 +13,7 @@ I’m a **Snowflake Developer** with 9+ years of experience in IT and 3+ years o
 
 ⭐⭐⭐ 3-Star SQL Badge on https://www.hackerrank.com/profile/kranthikasqlbi
 
-##### ⭐⭐⭐ 3-Star SQL Badge on https://www.leetcode.com/profile/kranthikasqlbi
+#### ⭐⭐⭐ 3-Star SQL Badge on https://www.leetcode.com/profile/kranthikasqlbi
 ---------------------------------------------------------------------------------------------------------------------------------------------
 > **Disclaimer:**: All projects listed below are **sample domain-based projects created for learning, demonstration, and portfolio purposes**.
 > No real client data, confidential information, or proprietary code is included.
@@ -21,7 +21,7 @@ I’m a **Snowflake Developer** with 9+ years of experience in IT and 3+ years o
 ----------------------------PROJECTS IMPLIMENTED ----------------------
 ------------------------------------------------------------------------------------------------------------------
 # 1. FinacPlus (Jul 2023 – N/A)
-### Role:👨‍💻 Software Engineer – Snowflake | dbt | AWS | **Domain:** Retail |  
+## Role:👨‍💻 Software Engineer – Snowflake | dbt | AWS | **Domain:** Retail |  
 ##### 🚗 Project Name: Automotive Sales Data Lakehouse Platform
 ##### Project Overview: Designed and developed an end-to-end modern SNOWFLAKE database platform for ingesting, loading and transforming data
 ##### **Client:** Not Disclosed (Retail Automotive Client)  
