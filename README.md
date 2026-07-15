@@ -35,7 +35,7 @@ I’m a **Snowflake Developer** with 9+ years of experience in IT and 3+ years o
 #### **GitHub Repository:** [https://github.com/kranthikasqlbi/HealthcareProject](url)
 ------------------------------------------------------------------------------------------------------------------
 
-# 3. INEOS (Oct 2019 – Jan 2021) | **Domain:** Life Sciences  
+# 3. INEOS (Dec 2019 – Jan 2021) | **Domain:** Life Sciences  
 ## Role: Senior Data Analyst – Pharma Domain
 #### Project Overview Developed an analytics platform focused on pharmaceutical data processing, reporting, and business intelligence requirements.
 #### 💊 Project Name: Pharmaceutical Sales & Research Analytics Platform
@@ -49,7 +49,7 @@ I’m a **Snowflake Developer** with 9+ years of experience in IT and 3+ years o
 #### **Client:** Not Disclosed (Sample Project)  
 #### **GitHub Repository:** [https://github.com/kranthikasqlbi/pharmaProject](url)
 ------------------------------------------------------------------------------------------------------------------
-# 5. Cognizant (Jan 2015 – Nov 2016) | **Domain:** Hospitality Industry 
+# 5. Cognizant (Jan 2013 – Oct 2016) | **Domain:** Hospitality Industry 
 ## Role: Programmer Analyst – Master Data Management
 #### Project Overview Developed a master data management solution to organize and maintain automotive business data including vehicle, customer, dealer, and transaction information.
 #### 🍽️ Project Name: Hospitality
