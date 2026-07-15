@@ -1,5 +1,5 @@
 
-src="https://git,,hub.com/user-attachments/assets/6323b717-a945-4835-9ad8-d767fa6e23bd"
+<img width="1584" height="396" alt="Kranti" src="https://git,,hub.com/user-attachments/assets/6323b717-a945-4835-9ad8-d767fa6e23bd" />
 
 ------------------------------------------------------------------------------------------------
 # 📌 Kranthi's Portfolio Overview
@@ -20,12 +20,12 @@ I’m a **Snowflake Developer** with 9+ years of experience in IT and 3+ years o
 ------------------------------------------------------------------------------------------------------------------
 ----------------------------PROJECTS IMPLIMENTED ----------------------
 ------------------------------------------------------------------------------------------------------------------
-## 1. FinacPlus (Jul 2023 – N/A)
-#Role:👨‍💻 Software Engineer – Snowflake | dbt | AWS | **Domain:** Retail |  
-# 🚗 Project Name: Automotive Sales Data Lakehouse Platform
-# Project Overview: Designed and developed an end-to-end modern SNOWFLAKE database platform for ingesting, loading and transforming data
-**Client:** Not Disclosed (Retail Automotive Client)  
-**GitHub Repository:**  [https://github.com/kranthikasqlbi/RetailAutomotiveSnowflake](url)
+# 1. FinacPlus (Jul 2023 – N/A)
+## Role:👨‍💻 Software Engineer – Snowflake | dbt | AWS | **Domain:** Retail |  
+### 🚗 Project Name: Automotive Sales Data Lakehouse Platform
+### Project Overview: Designed and developed an end-to-end modern SNOWFLAKE database platform for ingesting, loading and transforming data
+### **Client:** Not Disclosed (Retail Automotive Client)  
+### **GitHub Repository:**  [https://github.com/kranthikasqlbi/RetailAutomotiveSnowflake](url)
 ------------------------------------------------------------------------------------------------------------------
 # 2. Curia (Feb 2021 – Jun 2023) | **Domain:** Healthcare 
 ### Role:🧑‍💻 Lead Data Analyst – Data Engineering & Analytics
