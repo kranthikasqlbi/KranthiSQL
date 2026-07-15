@@ -16,7 +16,7 @@ I’m a **Snowflake Developer ** with 9+ years of experience in IT and 3+ years 
 > **Disclaimer:**: All projects listed below are **sample domain-based projects created for learning, demonstration, and portfolio purposes**.
 > No real client data, confidential information, or proprietary code is included.
 ------------------------------------------------------------------------------------------------------------------
---------------------------------PROJECTS IMPLIMENTED ----------------------
+----------------------------PROJECTS IMPLIMENTED ----------------------
 ------------------------------------------------------------------------------------------------------------------
 # 1. FinacPlus (Jul 2023 – N/A)
 ### Role:👨‍💻 Software Engineer – Snowflake | dbt | AWS | **Domain:** Retail |  
