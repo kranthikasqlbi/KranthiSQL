@@ -32,7 +32,7 @@ I’m a **Snowflake Developer** with 9+ years of experience in IT and 3+ years o
 #### 🧬 Project Name: HealthCare Platform
 ####  Project Overview: Built a healthcare analytics solution to integrate, transform, and organize healthcare-related data for reporting, analytics, and business insights.
 #### **Client:** Not Disclosed (Healthcare)  
-#### **GitHub Repository:** [https://github.com/kranthikasqlbi/HealthcareProject](url)
+#### **GitHub Repository:** https://github.com/kranthikasqlbi/HealthcareProject
 ------------------------------------------------------------------------------------------------------------------
 
 # 3. INEOS (Dec 2019 – Jan 2021) | **Domain:** Life Sciences  |
